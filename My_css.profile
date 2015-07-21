@@ -1,0 +1,22 @@
+a{
+color:blue;
+}
+
+h2 {
+text-decoration: underline wavy red;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+}
+
+#something {width:900px;
+      margin:0 auto 0 auto;
+      padding:5px;
+      border:1px solid #cccccc;
+      background:#66FF66; }
+
+body {
+          background-color: 	#C0C0C0;
+      }
